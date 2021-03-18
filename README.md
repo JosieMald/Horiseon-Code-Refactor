@@ -1,6 +1,6 @@
 # Horiseon-Code-Refactor
 
-## [Horiseon](https://github.com/JosieMald/Horiseon-Code-Refactor.git)
+## [Horiseon](https://josiemald.github.io/Horiseon-Code-Refactor/)
 
 ![Portfolio Site](/assets/images/Horiseon-Webpage.png)
 
